@@ -6,7 +6,7 @@
 
 ## The Story Behind This Game
 
-My daughters discovered the Google Chrome dinosaur game — you know the one, that little T-Rex that appears when you lose your internet connection. They were hooked. They'd play it over and over, jumping that pixelated dinosaur over cacti, trying to beat each other's high scores.
+My daughters discovered the Google Chrome dinosaur game you know the one, that little T-Rex that appears when you lose your internet connection. They were hooked. They'd play it over and over, jumping that pixelated dinosaur over cacti, trying to beat each other's high scores.
 
 One day, they asked me: *"Dad, can we have a unicorn version?"*
 
