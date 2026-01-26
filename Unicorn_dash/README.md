@@ -12,7 +12,7 @@ One day, they asked me: *"Dad, can we have a unicorn version?"*
 
 And just like that, **Unicorn Dash** was born.
 
-This game transforms the simple joy of that classic endless runner into something magical — complete with a majestic unicorn, flowing rainbow mane, sparkle trails, glowing crystals, and fire-breathing dragons. Because if my girls wanted a unicorn, they were going to get the most magical unicorn game I could create for them.
+This game transforms the simple joy of that classic endless runner into something magical, complete with a majestic unicorn, flowing rainbow mane, sparkle trails, glowing crystals, and fire-breathing dragons. Because if my girls wanted a unicorn, they were going to get the most magical unicorn game I could create for them.
 
 ---
 
